@@ -13,8 +13,8 @@ An engaging **Emoji Game** where users click on emojis to score points without c
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://abhiemojigame.ccbp.tech)  
-🔗 URL: https://abhiemojigame.ccbp.tech
+👉 [Click here to view the live site](https://bhumiemojigame.ccbp.tech)  
+🔗 URL: https://bhumiemojigame.ccbp.tech
 
 ## ✨ Features
 
